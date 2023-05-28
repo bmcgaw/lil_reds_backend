@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b93327e3.css",
+    "main.js": "/static/js/main.373fe4e9.js",
+    "static/media/art4.jpg": "/static/media/art4.27e6913860624aba0058.jpg",
+    "static/media/art3.jpg": "/static/media/art3.9b34189c4e86941a481b.jpg",
+    "static/media/myface.png": "/static/media/myface.70f25773021cc7d39c2f.png",
+    "static/media/art2.jpg": "/static/media/art2.0ccb850512cc8ae2c445.jpg",
+    "static/media/art7.jpg": "/static/media/art7.7f68a8ab786a14ab26b9.jpg",
+    "static/media/art1.jpg": "/static/media/art1.9b0c8b2f50afccbcfd40.jpg",
+    "static/media/art5.jpg": "/static/media/art5.57acdcc148b16c47c0e4.jpg",
+    "static/media/art6.jpg": "/static/media/art6.ffec7ff0e2a5bde0583c.jpg",
+    "static/media/fanLeaf.png": "/static/media/fanLeaf.ffb8e57a386ebd28e477.png",
+    "static/media/littleDots.png": "/static/media/littleDots.288a7f709153cd56e856.png",
+    "static/media/lilredslogo.png": "/static/media/lilredslogo.2948e016de490c2d7938.png",
+    "index.html": "/index.html",
+    "main.b93327e3.css.map": "/static/css/main.b93327e3.css.map",
+    "main.373fe4e9.js.map": "/static/js/main.373fe4e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b93327e3.css",
+    "static/js/main.373fe4e9.js"
+  ]
+}
